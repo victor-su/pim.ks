@@ -1,4 +1,16 @@
 {
-    "name": "系列文章｜产品经理知识体系之idea管理（一）",
-    "url": "http://www.woshipm.com/pmd/570957.html"
+    "structure": {
+        "name": "系列文章｜产品经理知识体系之idea管理（一）",
+        "url": "http://www.woshipm.com/pmd/570957.html"
+    },
+    "recommend": [
+        {
+            "name": "文章推送来源1",
+            "url": "http://www.articles.com/1"
+        },
+        {
+            "name": "文章推送来源2",
+            "url": "http://www.articles.com/2"
+        }
+    ]
 }
